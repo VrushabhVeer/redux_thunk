@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Redux",
+      "status": false
+    },
+    {
+      "title": "Node js",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Express",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Mongo db",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Chakra Ui",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn TypeScript",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn Material Ui",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
